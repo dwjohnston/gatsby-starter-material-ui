@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "latest",
+    "core-js": "^2.5.7",
     "gatsby": "latest",
     "jss": "latest",
     "prop-types": "latest",
